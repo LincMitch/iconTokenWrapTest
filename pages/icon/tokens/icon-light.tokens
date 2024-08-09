@@ -1,9 +1,0 @@
-/**
- * Do not edit directly, this file was auto-generated
- */
-
-:host {
-  --icon-width: 24px;
-  --icon-height: 24px;
-  --icon-icon-color: #41547D;
-}
